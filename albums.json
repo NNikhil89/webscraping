@@ -1,0 +1,39 @@
+{
+    "AlbumList":[
+            {
+            "Album Name": "Big Ones",
+            "Musical Artist": "Aerosmith",
+            "Track List" :[
+                "Walk On Water",
+                "Love In An Elevator",
+                "Rag Doll",
+                "What It Takes",
+                "Blind Man"],
+            "Release year" : 2011
+            },
+            {
+                "Album Name": "Plays Metallica By Four Cellos",
+                "Musical Artist": "Apocalyptica",
+                "Track List" :[
+                    "Enter Sandman",
+                    "Master Of Puppets",
+                    "Harvester Of Sorrow",
+                    "The Unforgiven",
+                    "Sad But True",
+                    "Creeping Death"],
+                "Release year" : 2012
+            },
+            {
+                "Album Name": "The Best Of Billy Cobham",
+                "Musical Artist": "Billy Cobham",
+                "Track List" :[
+                    "Quadrant",
+                    "Spanish moss A sound portrait",
+                    "Snoopy's search-Red baron",
+                    "Moon germs",
+                    "Stratus",
+                    "The pleasant pheasant"],
+                "Release year" : 2012
+            }]
+}
+    
